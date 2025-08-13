@@ -1,4 +1,4 @@
-📊 Expense Tracker (Flutter)
+**📊 Expense Tracker (Flutter)**
 
 A Flutter-based Expense Tracker app designed to help you manage and monitor your daily expenses efficiently. This project is currently in its initial stage and serves as the foundation for building a full-featured expense management application.
 
